@@ -299,3 +299,11 @@ if input() == 'go':
 -----____----""")
 
 print('You were hurt...')
+
+print(colorama.Back.LIGHTWHITE_EX)
+print("""Thanks for playing!
+Made on Python
+Powered by PyCharm
+Made by Gadiuka
+
+Special thanks for Python and PyCharm""")
